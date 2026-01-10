@@ -13,3 +13,5 @@ This project is a hospital management system designed to help hospitals manage p
 -Documentation:Emmanuel Chelimo
 ##Project repository link
 https://github.com/Muya72/Hospital-management-system
+##Project Objectives
+-Improve hospital record management

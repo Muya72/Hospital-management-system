@@ -12,4 +12,4 @@ This project is a hospital management system designed to help hospitals manage p
 -Jira Management:Harmaton Mwangwai
 -Documentation:Emmanuel Chelimo
 ##Project repository link
-https://github.com/Muya72/Hospital-management-system
+https://github.com/Muya72/Hospital-management-system.git

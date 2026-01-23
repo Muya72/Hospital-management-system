@@ -15,3 +15,4 @@ This project is a hospital management system designed to help hospitals manage p
 https://github.com/Muya72/Hospital-management-system
 ##Project Objectives
 -Improve hospital record management
+-Class and sequence diagram-Harmaton Mwangwai

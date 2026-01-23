@@ -14,3 +14,4 @@ This project is a hospital management system designed to help hospitals manage p
 -Documentation:Emmanuel Chelimo
 ##Project repository link
 https://github.com/Muya72/Hospital-management-system.git
+case and activity diagrams- Caleb Nyagah 

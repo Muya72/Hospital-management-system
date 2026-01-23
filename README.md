@@ -9,8 +9,8 @@ This project is a hospital management system designed to help hospitals manage p
 ##Team Roles
 -Requirements Analysis:Franklin Muya
 -System Design:Victor Omondi
--Jira Management:Harmaton Mwangwai
--Documentation:Mike Kiraga
+-Jira Management: Mike Kiraga 
+-Documentation: Emmanuel Chelimo
 ##Project repository link
 https://github.com/Muya72/Hospital-management-system
 ##Project Objectives
